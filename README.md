@@ -1,14 +1,14 @@
 
-#C - Simple Shell
+# C - Simple Shell
 
-##Background Context
+## Background Context
 Write a simple UNIX command interpreter.
 
-##Authors
+## Authors
 - [Isaac Neuwelt](https://github.com/neuwelt)
 - [Anteneh Tassew](https://github.com/Anteneh-W)
 
-##Resources
+## Resources
 Read or watch:
 
 - [Unix shell](https://alx-intranet.hbtn.io/rltoken/f0YU9TAhniMXWlSXtb64Yw)
