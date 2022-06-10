@@ -1,8 +1,6 @@
 
 # C - Simple Shell
-
-## Background Context
-Write a simple UNIX command interpreter.
+A simple UNIX command interpreter.
 
 ## Authors
 - [Isaac Neuwelt](https://github.com/neuwelt)
